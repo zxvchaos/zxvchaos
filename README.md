@@ -12,8 +12,8 @@ Most of my repositories are private due to commercial and security consideration
 API serving a US-based IoT manufacturer (200K+ minimum contracted API calls/year). Currently in production.
 Full lifecycle ownership: architecture, cloud deployment, SLA negotiation, billing, and ongoing operations.
 
-**Payslip OCR Service** — *Small Team*
-Automated payslip data extraction API with per-call billing and audit trail.
+**AI Unstructured Data Recognition API** — *Small Team*
+Multi-LLM pipeline for automated document processing — classification, quality assessment, correction, and structured data extraction with cross-model validation. Per-call billing in production.
 
 ---
 
@@ -22,8 +22,8 @@ Automated payslip data extraction API with per-call billing and audit trail.
 **Automated QA System**
 End-to-end testing automation for AI applications — scenario-driven test execution, multi-modal validation, and structured reporting.
 
-**LLM Self-Hosting on AWS GPU**
-Self-hosted LLM system on GPU instances — cost-optimized orchestration, model versioning, and disaster recovery.
+**Personalized AI Agent System** *(active development)*
+Three-layer memory architecture (context, episodic memory, personality knowledge graph) with LoRA fine-tuning on AWS GPU instances.
 
 **Personality-Emotion Modeling** *(in progress)*
 Bridging psychology and AI: building structured personality and emotion representations for more human-like conversational agents.
