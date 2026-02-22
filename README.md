@@ -29,7 +29,7 @@ Three-layer memory architecture (context, episodic memory, personality knowledge
 Real-time conversational AI with lip-sync and voice synthesis on a dedicated 32GB-VRAM GPU workstation.
 
 **Personality-Emotion Modeling** *(in progress)*
-Bridging psychology and AI: building structured personality and emotion representations for more human-like conversational agents.
+Original research framework for engineering autonomous agency in AI through coupled multi-agent dynamics and emotion architecture. Research paper on Zenodo.
 
 ---
 
