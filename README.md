@@ -25,6 +25,9 @@ End-to-end testing automation for AI applications — scenario-driven test execu
 **Personalized AI Agent System** *(active development)*
 Three-layer memory architecture (context, episodic memory, personality knowledge graph) with LoRA fine-tuning on AWS GPU instances.
 
+**Real-Time Digital Human** *(early prototype)*
+Real-time conversational AI with lip-sync and voice synthesis on a dedicated 32GB-VRAM GPU workstation.
+
 **Personality-Emotion Modeling** *(in progress)*
 Bridging psychology and AI: building structured personality and emotion representations for more human-like conversational agents.
 
